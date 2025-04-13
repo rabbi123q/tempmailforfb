@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Facebook Temp Mail</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #f2f2f2;
+      text-align: center;
+      margin-top: 50px;
+    }
+    .box {
+      background: white;
+      padding: 20px;
+      display: inline-block;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+    .email {
+      font-size: 20px;
+      font-weight: bold;
+      color: #333;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Your Facebook Temp Email:</h2>
+    <div class="email">fb1744542013@tempmailforfb.epizy.com</div>
+    <p>Use this email to create a Facebook account.</p>
+  </div>
+</body>
+</html>
